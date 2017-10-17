@@ -6,10 +6,7 @@
 // Else alert "no such flavor"
 
 var flavor = prompt("Enter a flavor");
-if (flavor == "chocolate") {
-	alert ("heres your "+flavor+" ice cream");
-}
-else if (flavor == "vanilla") {
+if (flavor == "chocolate" || flavor == "vanilla") {
 	alert ("heres your "+flavor+" ice cream");
 }
 else if (flavor == "strawberry") {
