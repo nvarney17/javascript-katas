@@ -14,4 +14,4 @@ else if (flavor == "strawberry") {
 }
 else {
 	alert ("no such flavor");
-}
+} 
