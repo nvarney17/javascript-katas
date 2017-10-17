@@ -1,4 +1,4 @@
-/* 1.1 - Conditionals with Prompt */
+/* 1.2 - For Loop */
 
 // Conditional where flavor = chocolate or vanilla
 // Prompt for flavor then output "heres your" +flavor
